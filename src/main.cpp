@@ -5,7 +5,7 @@
 //
 // Professores orientadores : Tales Trocolletto e Celso Milan.
 //
-// Alunos: André Gomes Moreno ; Guilherme Xavier dos Santos ; Patrick Yudi Aguena ; Renan         Verissimo Mendes 
+// Alunos: André Gomes Moreno ; Guilherme Xavier dos Santos ; Patrick Yudi Aguena ; Renan Verissimo Mendes 
 //	
 //=================================================================================
 
